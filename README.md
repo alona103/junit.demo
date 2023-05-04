@@ -4,4 +4,4 @@
 
 ##From local repo
 
-## From repo after git config
+## From local repo after git config
